@@ -1,5 +1,15 @@
 # Hello, folks! <img src="wave.gif" width="30px" height="30px" />
 
+My name is Bruno Goedert Dalmolin and I'm a Mobile Developer. I'm from Brazil, living in Paraná. You can find me on [![LinkedIn][1.2]][1].
+
+
+<!-- icons -->
+[1.2]: linkedin-logo-26.png (linkedin icon)
+
+<!-- links to your social media accounts -->
+[1]: https://www.linkedin.com/in/bruno-goedert-dalmolin/
+
+
 <!--
 **GoedertDalmolin/GoedertDalmolin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
