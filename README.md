@@ -4,7 +4,7 @@ My name is Bruno Goedert Dalmolin and I'm a Mobile Developer. I'm from Brazil, l
 
 
 <!-- icons -->
-[1.2]: linkedin-logo-26.png (linkedin icon)
+[1.2]: linkedin-logo-14.png (linkedin icon)
 
 <!-- links to your social media accounts -->
 [1]: https://www.linkedin.com/in/bruno-goedert-dalmolin/
