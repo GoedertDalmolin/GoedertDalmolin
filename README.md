@@ -15,4 +15,9 @@ My name is Bruno Goedert Dalmolin and I'm a Mobile Developer. I'm from Brazil, l
 ![](https://img.shields.io/badge/Cloud-Amazon_AWS-2F81F7?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=171637)
 
 ## &#x1f4c8; GitHub Stats
-<a href="https://github.com/GoedertDalmolin"><img src="https://github-readme-streak-stats.herokuapp.com/?user=GoedertDalmolin&stroke=ffffff&background=171637&ring=2F81F7&fire=2F81F7&currStreakNum=ffffff&currStreakLabel=2F81F7&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<div  align="center" style="margin-bottom:100px">
+<a href="https://github.com/GoedertDalmolin"><img  width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com/?user=GoedertDalmolin&stroke=ffffff&background=171637&ring=2F81F7&fire=2F81F7&currStreakNum=ffffff&currStreakLabel=2F81F7&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="https://github.com/GoedertDalmolin"><img  width=40% align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=GoedertDalmolin&show_icons=true&theme=radical&layout=compact&title_color=2F81F7&hide_border=true&bg_color=171637&text_color=FFFFFF" /></a>
+ </div>
+
+
