@@ -1,3 +1,5 @@
+[![Header](https://raw.githubusercontent.com/GoedertDalmolin/GoedertDalmolin/master/readme_header.png "Header")](https://github.com/GoedertDalmolin/)
+
 # Howdy, folks! <img src="wave.gif" width="30px" height="30px" />
 
 My name is Bruno Goedert Dalmolin and I'm a Mobile Developer. I'm from Brazil, living in Paraná. You can find me on [Linkedin](https://www.linkedin.com/in/bruno-goedert-dalmolin/).
